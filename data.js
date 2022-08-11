@@ -87,7 +87,9 @@ exports.commonTerms = [
 'uss enterprise-d',
 'computer',
 'starfleet command',
-'fleet'
+'fleet',
+'phase cannons',
+'photon torpedos'
 
 
 ];
