@@ -56,7 +56,7 @@ app.post('/', function (request, response) {
 	    sentenceLength,
 	    term;
 	for (i = 0; i < paragraphCount; i++) {
-		paragraph = startWith ? 'Live ipsum long and prosper dolor where no one sit amet has gone before ' : '';
+		paragraph = startWith ? 'Holy ipsum batman ' : '';
 		while (paragraph.length < paragraphLength) {
 			sentenceLength = startWith ? 10 : random.getRandomInteger(4, 10);
 			for (j = 0; j < sentenceLength; j++) { 
